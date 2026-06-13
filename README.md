@@ -12,3 +12,8 @@ Repo for Completed Problem Sets from the Suite of CS50 Courses!
 - [Mario (More Comfortable)](./cs50x/psets/1/mario/more/mario.c)
 - [Cash](./cs50x/psets/1/cash/cash.c)
 - [Credit](./cs50x/psets/1/credit/credit.c)
+### [2](https://cs50.harvard.edu/x/psets/2/)
+- [Scrabble](./cs50x/psets/2/scrabble/scrabble.c)
+- [Readability](./cs50x/psets/2/readability/readability.c)
+- [Caesar](./cs50x/psets/2/caesar/caesar.c)
+- [Substitution](./cs50x/psets/2/substitution/substitution.c)
