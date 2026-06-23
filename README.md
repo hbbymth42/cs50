@@ -17,3 +17,7 @@ Repo for Completed Problem Sets from the Suite of CS50 Courses!
 - [Readability](./cs50x/psets/2/readability/readability.c)
 - [Caesar](./cs50x/psets/2/caesar/caesar.c)
 - [Substitution](./cs50x/psets/2/substitution/substitution.c)
+### [3](https://cs50.harvard.edu/x/psets/3/)
+- [Sort](./cs50x/psets/3/sort/answers.txt)
+- [Plurality](./cs50x/psets/3/plurality/plurality.c)
+- [Runoff](./cs50x/psets/3/runoff/runoff.c)
