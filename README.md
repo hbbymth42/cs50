@@ -21,3 +21,8 @@ Repo for Completed Problem Sets from the Suite of CS50 Courses!
 - [Sort](./cs50x/psets/3/sort/answers.txt)
 - [Plurality](./cs50x/psets/3/plurality/plurality.c)
 - [Runoff](./cs50x/psets/3/runoff/runoff.c)
+### [4](https://cs50.harvard.edu/x/psets/4/)
+- [Volume](./cs50x/psets/4/volume/volume.c)
+- [Filter (Less Comfortable)](./cs50x/psets/4/filter/less/helpers.c)
+- [Filter (More Comfortable)](./cs50x/psets/4/filter/more/helpers.c)
+- [Recover](./cs50x/psets/4/recover/recover.c)
