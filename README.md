@@ -26,3 +26,6 @@ Repo for Completed Problem Sets from the Suite of CS50 Courses!
 - [Filter (Less Comfortable)](./cs50x/psets/4/filter/less/helpers.c)
 - [Filter (More Comfortable)](./cs50x/psets/4/filter/more/helpers.c)
 - [Recover](./cs50x/psets/4/recover/recover.c)
+### [5](https://cs50.harvard.edu/x/psets/5/)
+- [Inheritance](./cs50x/psets/5/inheritance/inheritance.c)
+- [Speller](./cs50x/psets/5/speller/dictionary.c)
