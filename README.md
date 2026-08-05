@@ -37,3 +37,7 @@ Repo for Completed Problem Sets from the Suite of CS50 Courses!
 - [Credit](./cs50x/psets/6/credit/credit.py)
 - [Readability](./cs50x/psets/6/readability/readability.py)
 - [DNA](./cs50x/psets/6/dna/dna.py)
+### [7](https://cs50.harvard.edu/x/psets/7/)
+- [Songs](./cs50x/psets/7/songs/)
+- [Movies](./cs50x/psets/7/movies/)
+- [Fiftyville](./cs50x/psets/7/fiftyville/)

@@ -1,0 +1,7 @@
+The audio aura of this listener for 2018 based on the average of valence, danceability and energy, across their top 100 songs, could be categorised as orange given the high amount of energy and danceability.
+
+However, this outcome may not be characteristic of this person as many factors can influence this metric. For example, if this person had a number of negative experiences which potentially causes a more reflective and introspective mood to be reflected in the person's music listening habits, the aura of the person could widely vary.
+
+Additionally, an average should be considered with other metrics like variance and error bars, as particular songs could skew the average towards particular 'mood' metrics, which read together, could be inaccurate or even contradictory.
+
+Hence, a better method would be to include additional measures of these data points to provide a more accurate picture of a listeners habits, while also potentially considering previous years outcomes to get a more accurate picture of the person's overall listening habits.
